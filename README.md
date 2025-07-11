@@ -46,16 +46,16 @@ The **Moving Window Neural Network** provides the best performance, with the low
 
 ## Skills Utilized
 ### **Technical Skills:**  
-✅ **Python** – Core programming language for data analysis and modeling  
-✅ **Pandas** – Data manipulation and preprocessing  
-✅ **NumPy** – Numerical computations  
-✅ **Matplotlib & Seaborn** – Data visualization  
-✅ **Scikit-learn** – Machine learning models (Linear Regression, Lasso Regression)  
-✅ **TensorFlow/Keras** – Deep learning for neural networks  
-✅ **Time Series Analysis** – Moving averages, weighted averages, trend detection  
-✅ **Feature Engineering** – Data transformation and handling missing values  
-✅ **Statistical Modeling** – Regression analysis and error metrics  
-✅ **Jupyter Notebook/GoogleColab/VsCode** – Code execution and visualization  
+**Python** – Core programming language for data analysis and modeling  
+**Pandas** – Data manipulation and preprocessing  
+**NumPy** – Numerical computations  
+**Matplotlib & Seaborn** – Data visualization  
+**Scikit-learn** – Machine learning models (Linear Regression, Lasso Regression)  
+**TensorFlow/Keras** – Deep learning for neural networks  
+**Time Series Analysis** – Moving averages, weighted averages, trend detection  
+**Feature Engineering** – Data transformation and handling missing values  
+**Statistical Modeling** – Regression analysis and error metrics  
+**Jupyter Notebook/GoogleColab/VsCode** – Code execution and visualization  
 
 ## Dependencies
 Ensure the following libraries are installed:
